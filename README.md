@@ -50,8 +50,8 @@ customer-retention-analysis/
     ├── correlation_heatmap.png
     └── recency_frequency_scatter.png
 
-    
-   
+```
+
 📊 Analysis Performed
 
 1.RFM Analysis
