@@ -139,5 +139,7 @@ python customer_retention_analysis.py
 - Data Visualization
 - Business Insight Generation
 
-👨‍💻 Made by Sarthak Atri
-Data Analytics | Python | Pandas | Customer Analytics
+
+-----Made by Sarthak Atri-----
+
+Python | Pandas | RFM Analysis | Customer Retention
