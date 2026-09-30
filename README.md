@@ -1,7 +1,9 @@
 📊 Customer Retention Analysis
+
 A data analytics project that analyzes customer transaction data to understand customer behavior, identify churn patterns, and evaluate customer retention using RFM Analysis, Cohort Analysis, and Correlation Analysis.
 
 🎯 Project Goal
+
 The goal of this project is to answer business questions such as:
 1.Which customers are the most valuable?
 2.Which customers are likely to stop purchasing?
@@ -9,6 +11,7 @@ The goal of this project is to answer business questions such as:
 4.What factors are most related to customer churn?
 
 🛠 Tools Used
+
 1.Python
 2.Pandas
 3.NumPy
@@ -16,6 +19,7 @@ The goal of this project is to answer business questions such as:
 5.CSV Dataset
 
 📑 Dataset
+
 This project uses a synthetic customer transaction dataset generated using Python.
  Dataset Features:
 • 1,000 customers
@@ -24,26 +28,32 @@ This project uses a synthetic customer transaction dataset generated using Pytho
 • No real customer data was used
 
 📁 Project Files
+```text
 customer-retention-analysis/
 │
+├── README.md
 ├── generate_customer_data.py
 ├── customer_retention_analysis.py
 ├── customer_transactions.csv
+├── customer_true_types.csv
 ├── rfm_customer_summary.csv
 ├── segment_summary.csv
 ├── cohort_retention_table.csv
 ├── correlation_matrix.csv
 ├── insights_report.md
 ├── requirements.txt
-├── README.md
 │
 └── charts/
-   ├── segment_distribution.png
-   ├── revenue_by_segment.png
-   ├── cohort_retention_heatmap.png
-   ├── correlation_heatmap.png
-   └── recency_frequency_scatter.png
+    ├── segment_distribution.png
+    ├── revenue_by_segment.png
+    ├── cohort_retention_heatmap.png
+    ├── correlation_heatmap.png
+    └── recency_frequency_scatter.png
+
+    
+   
 📊 Analysis Performed
+
 1.RFM Analysis
 Calculated:
 •Recency
@@ -81,6 +91,7 @@ Measured relationships between:
 to identify important churn indicators.
 
 📈 Key Insights
+
 •Recency showed the strongest relationship with churn.
 •Customers who purchased recently were less likely to churn.
 •Champion customers contributed a significant portion of revenue.
@@ -88,6 +99,7 @@ to identify important churn indicators.
 •High-spending customers could still become at risk if they stopped purchasing regularly.
 
 🚀 How to Run
+
 Step 1: Install dependencies
  pip install -r requirements.txt
  Step 2: Generate synthetic customer data
@@ -96,6 +108,7 @@ Step 1: Install dependencies
  python customer_retention_analysis.py
 
 📂Generated outputs include:
+
 •Customer Segments
 •Churn Analysis
 •Cohort Retention Table
@@ -104,6 +117,7 @@ Step 1: Install dependencies
 •Business Insights Report
 
 📚 Skills Demonstrated
+
 •Data Cleaning
 •Exploratory Data Analysis
 •RFM Analysis
