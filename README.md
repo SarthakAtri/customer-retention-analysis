@@ -100,7 +100,6 @@ to identify important churn indicators.
 -  Customer retention gradually decreased over time.
 -  High-spending customers could still become at risk if they stopped purchasing regularly.
 
-🚀 How to Run
 ## 🚀 How to Run
 
 ### Step 1: Install Dependencies
