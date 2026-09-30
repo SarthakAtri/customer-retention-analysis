@@ -2,7 +2,7 @@
 
 A data analytics project that analyzes customer transaction data to understand customer behavior, identify churn patterns, and evaluate customer retention using RFM Analysis, Cohort Analysis, and Correlation Analysis.
 
-🎯 🎯 Project Goal
+🎯 Project Goal
 
 The goal of this project is to answer business questions such as:
 
