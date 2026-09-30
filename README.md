@@ -12,11 +12,11 @@ The goal of this project is to answer business questions such as:
 
 🛠 Tools Used
 
-1.Python
-2.Pandas
-3.NumPy
-4.Matplotlib
-5.CSV Dataset
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- CSV Dataset
 
 📑 Dataset
 
@@ -56,22 +56,24 @@ customer-retention-analysis/
 
 1.RFM Analysis
 Calculated:
-•Recency
-•Frequency
-•Monetary Value
+- Recency
+- Frequency
+- Monetary Value
 
 to identify customer purchasing behavior and segment customers.
 
 2.Customer Segmentation
-Customers were grouped into:
-• Champions
-• Loyal Customers
-• New Customers
-• Promising
-• Need Attention
-• At Risk
-• Can't Lose Them
-• Hibernating / Lost
+
+  Customers were grouped into:
+
+- Champions
+- Loyal Customers
+- New Customers
+- Promising
+- Need Attention
+- At Risk
+- Can't Lose Them
+- Hibernating / Lost
 
 3.Churn Analysis
 
@@ -84,48 +86,58 @@ Tracked customer retention month by month to understand repeat purchasing behavi
 5.Correlation Analysis
 
 Measured relationships between:
-•Recency
-•Frequency
-•Monetary Value
-•Churn
+- Recency
+- Frequency
+- Monetary Value
+- Churn
 to identify important churn indicators.
 
 📈 Key Insights
-
-•Recency showed the strongest relationship with churn.
-•Customers who purchased recently were less likely to churn.
-•Champion customers contributed a significant portion of revenue.
-•Customer retention gradually decreased over time.
-•High-spending customers could still become at risk if they stopped purchasing regularly.
+-  Recency showed the strongest relationship with churn.
+-  Customers who purchased recently were less likely to churn.
+-  Champion customers contributed a significant portion of revenue.
+-  Customer retention gradually decreased over time.
+-  High-spending customers could still become at risk if they stopped purchasing regularly.
 
 🚀 How to Run
+## 🚀 How to Run
 
-Step 1: Install dependencies
- pip install -r requirements.txt
- Step 2: Generate synthetic customer data
- python generate_customer_data.py
- Step 3: Run customer retention analysis
- python customer_retention_analysis.py
+### Step 1: Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+### Step 2: Generate Synthetic Customer Data
+
+```bash
+python generate_customer_data.py
+```
+
+### Step 3: Run Customer Retention Analysis
+
+```bash
+python customer_retention_analysis.py
+```
 
 📂Generated outputs include:
 
-•Customer Segments
-•Churn Analysis
-•Cohort Retention Table
-•Correlation Matrix
-•Visualizations
-•Business Insights Report
+- Customer Segments
+- Churn Analysis
+- Cohort Retention Table
+- Correlation Matrix
+- Visualizations
+- Business Insights Report
 
 📚 Skills Demonstrated
 
-•Data Cleaning
-•Exploratory Data Analysis
-•RFM Analysis
-•Customer Segmentation
-•Cohort Analysis
-•Correlation Analysis
-•Data Visualization
-•Business Insight Generation
+- Data Cleaning
+- Exploratory Data Analysis
+- RFM Analysis
+- Customer Segmentation
+- Cohort Analysis
+- Correlation Analysis
+- Data Visualization
+- Business Insight Generation
 
 👨‍💻 Made by Sarthak Atri
 Data Analytics | Python | Pandas | Customer Analytics
