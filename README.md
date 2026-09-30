@@ -5,10 +5,10 @@ A data analytics project that analyzes customer transaction data to understand c
 🎯 Project Goal
 
 The goal of this project is to answer business questions such as:
-1.Which customers are the most valuable?
-2.Which customers are likely to stop purchasing?
-3.How does customer retention change over time?
-4.What factors are most related to customer churn?
+-Which customers are the most valuable?
+-Which customers are likely to stop purchasing?
+-How does customer retention change over time?
+-What factors are most related to customer churn?
 
 🛠 Tools Used
 
