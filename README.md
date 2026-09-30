@@ -2,13 +2,14 @@
 
 A data analytics project that analyzes customer transaction data to understand customer behavior, identify churn patterns, and evaluate customer retention using RFM Analysis, Cohort Analysis, and Correlation Analysis.
 
-🎯 Project Goal
+🎯 🎯 Project Goal
 
 The goal of this project is to answer business questions such as:
--Which customers are the most valuable?
--Which customers are likely to stop purchasing?
--How does customer retention change over time?
--What factors are most related to customer churn?
+
+- Which customers are the most valuable?
+- Which customers are likely to stop purchasing?
+- How does customer retention change over time?
+- What factors are most related to customer churn?
 
 🛠 Tools Used
 
